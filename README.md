@@ -12,7 +12,7 @@ This is a skeleton for a backend web application using Express.js. It is intende
     # Example: git clone https://github.com/9-5-pursuit/express-skeleton my-app-backend
     ```
 
-1. Change into the directory.
+1. Change into the directory
 
     ```bash
     cd <directory-name>
